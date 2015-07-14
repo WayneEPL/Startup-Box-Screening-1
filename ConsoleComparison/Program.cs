@@ -20,7 +20,7 @@ namespace ConsoleComparison
             {
                 //get, display and return the difference
                 int difference1 = (int)(ImageTool.GetPercentageDifference(args[0], args[1])*100);
-                Console.WriteLine("Difference is {0}%", difference1);
+                Console.WriteLine("Similarity is {0}%", 100-difference1);
                 return difference1;
             }
         }

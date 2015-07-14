@@ -5,10 +5,6 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 
-// Created in 2012 by Jakob Krarup (www.xnafan.net).
-// Use, alter and redistribute this code freely,
-// but please leave this comment :)
-
 
 namespace XnaFan.ImageComparison
 {

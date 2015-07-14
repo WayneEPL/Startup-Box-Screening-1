@@ -3,9 +3,6 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-// Created in 2012 by Jakob Krarup (www.xnafan.net).
-// Use, alter and redistribute this code freely,
-// but please leave this comment :)
 
 namespace XnaFan.ImageComparison
 {

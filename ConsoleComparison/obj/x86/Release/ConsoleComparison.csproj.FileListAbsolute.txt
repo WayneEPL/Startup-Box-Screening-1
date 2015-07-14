@@ -4,3 +4,4 @@ H:\Fintech\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\bin\Rel
 H:\Fintech\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\bin\Release\XnaFan.ImageComparison.pdb
 H:\Fintech\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\obj\x86\Release\ConsoleImageComparison.exe
 H:\Fintech\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\obj\x86\Release\ConsoleImageComparison.pdb
+H:\Fintech\ImageComparisonSolution_1.6\ImageComparison\ConsoleComparison\obj\x86\Release\ConsoleComparison.csprojResolveAssemblyReference.cache
